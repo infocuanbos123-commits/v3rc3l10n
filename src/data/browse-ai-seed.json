@@ -1,0 +1,1118 @@
+{
+  "535": {
+    "hidden": false,
+    "score": 0.0076036770784087375,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079454235
+  },
+  "773": {
+    "hidden": false,
+    "score": 0.03010719057155708,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079470784
+  },
+  "975": {
+    "hidden": false,
+    "score": 0.036537480258098644,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079453195
+  },
+  "1254": {
+    "hidden": false,
+    "score": 0.11877731473973412,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079509719
+  },
+  "1261": {
+    "hidden": false,
+    "score": 0.17314069422420603,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079506457
+  },
+  "1263": {
+    "hidden": false,
+    "score": 0.09453848064657065,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079508653
+  },
+  "1264": {
+    "hidden": false,
+    "score": 0.05213934890154774,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079501497
+  },
+  "1265": {
+    "hidden": false,
+    "score": 0.06501737842967993,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079515831
+  },
+  "1266": {
+    "hidden": false,
+    "score": 0.07807428717469396,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079497062
+  },
+  "1268": {
+    "hidden": false,
+    "score": 0.07134757598899039,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079501638
+  },
+  "1273": {
+    "hidden": false,
+    "score": 0.037312338648519155,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079507365
+  },
+  "1277": {
+    "hidden": false,
+    "score": 0.03612691501915946,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079511109
+  },
+  "1334": {
+    "hidden": false,
+    "score": 0.019351827146116468,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079506932
+  },
+  "1363": {
+    "hidden": false,
+    "score": 0.12362652252969182,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079513234
+  },
+  "1689": {
+    "hidden": false,
+    "score": 0.004844846495365847,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079508026
+  },
+  "1832": {
+    "hidden": false,
+    "score": 0.06917503821340742,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079503312
+  },
+  "2247": {
+    "hidden": false,
+    "score": 0.07569829744570786,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079514328
+  },
+  "4529": {
+    "hidden": false,
+    "score": 0.10430192930451254,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079512910
+  },
+  "4608": {
+    "hidden": false,
+    "score": 0.1155755950680285,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079459343
+  },
+  "4890": {
+    "hidden": false,
+    "score": 0.11319481842527761,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079505700
+  },
+  "5640": {
+    "hidden": false,
+    "score": 0.021525426743238076,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079502444
+  },
+  "6158": {
+    "hidden": false,
+    "score": 0.12348032785908222,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079469906
+  },
+  "7182": {
+    "hidden": false,
+    "score": 0.15196133255946292,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079500690
+  },
+  "7532": {
+    "hidden": false,
+    "score": 0.3138790970267998,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079475059
+  },
+  "7628": {
+    "hidden": false,
+    "score": 0.09761097511109809,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079476507
+  },
+  "7636": {
+    "hidden": false,
+    "score": 0.1769936522141303,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079509865
+  },
+  "7949": {
+    "hidden": false,
+    "score": 0.1285956615371054,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079476122
+  },
+  "7977": {
+    "hidden": false,
+    "score": 0.046938672177163736,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079454722
+  },
+  "8050": {
+    "hidden": false,
+    "score": 0.008679417070466952,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079502033
+  },
+  "8262": {
+    "hidden": false,
+    "score": 0.01387393989276139,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079497843
+  },
+  "8268": {
+    "hidden": false,
+    "score": 0.09801370523641345,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079456191
+  },
+  "8316": {
+    "hidden": false,
+    "score": 0.07687916634654358,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079467613
+  },
+  "8409": {
+    "hidden": false,
+    "score": 0.1283228778052688,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079457002
+  },
+  "8433": {
+    "hidden": false,
+    "score": 0.06914550571935467,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079478073
+  },
+  "8524": {
+    "hidden": false,
+    "score": 0.07039277014268533,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079498871
+  },
+  "8792": {
+    "hidden": false,
+    "score": 0.1310976535634438,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079453955
+  },
+  "8805": {
+    "hidden": false,
+    "score": 0.14216234632866914,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079476765
+  },
+  "9148": {
+    "hidden": false,
+    "score": 0.3838979727044349,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079479756
+  },
+  "9491": {
+    "hidden": false,
+    "score": 0.12520729902032735,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079458097
+  },
+  "9579": {
+    "hidden": false,
+    "score": 0.13167903333611664,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079472478
+  },
+  "10104": {
+    "hidden": false,
+    "score": 0.0593233568846698,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079470313
+  },
+  "10133": {
+    "hidden": false,
+    "score": 0.05428697714672538,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079463116
+  },
+  "10160": {
+    "hidden": false,
+    "score": 0.08607277154050923,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079466975
+  },
+  "10170": {
+    "hidden": false,
+    "score": 0.10964740467089712,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079460459
+  },
+  "10185": {
+    "hidden": false,
+    "score": 0.1203353961642771,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079463812
+  },
+  "10255": {
+    "hidden": false,
+    "score": 0.1225788795511686,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079464707
+  },
+  "10325": {
+    "hidden": false,
+    "score": 0.06719173475707753,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079474451
+  },
+  "10399": {
+    "hidden": false,
+    "score": 0.08459486224153061,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079480752
+  },
+  "10606": {
+    "hidden": false,
+    "score": 0.0911483861203725,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079468527
+  },
+  "10652": {
+    "hidden": false,
+    "score": 0.00738214874350806,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079457395
+  },
+  "10737": {
+    "hidden": false,
+    "score": 0.0719620864221156,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079455316
+  },
+  "10903": {
+    "hidden": false,
+    "score": 0.09319715340130312,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079442705
+  },
+  "11234": {
+    "hidden": false,
+    "score": 0.17884323622169362,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079462173
+  },
+  "11495": {
+    "hidden": false,
+    "score": 0.0895238171141848,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079465678
+  },
+  "11923": {
+    "hidden": false,
+    "score": 0.20660370617365179,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079451805
+  },
+  "12022": {
+    "hidden": false,
+    "score": 0.24818775488554037,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079512008
+  },
+  "12046": {
+    "hidden": false,
+    "score": 0.6227285003327825,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079382350
+  },
+  "12052": {
+    "hidden": false,
+    "score": 0.12412714442009436,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079509040
+  },
+  "12054": {
+    "hidden": false,
+    "score": 0.15575784138857335,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079514793
+  },
+  "12208": {
+    "hidden": false,
+    "score": 0.27623242918087504,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079480315
+  },
+  "12209": {
+    "hidden": false,
+    "score": 0.1710092577117076,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079441792
+  },
+  "12255": {
+    "hidden": false,
+    "score": 0.022061941834565495,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079466205
+  },
+  "12814": {
+    "hidden": false,
+    "score": 0.07172197261605143,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079450116
+  },
+  "12864": {
+    "hidden": false,
+    "score": 0.11551171688046202,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079455510
+  },
+  "12905": {
+    "hidden": false,
+    "score": 0.06334718521950991,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079380779
+  },
+  "13000": {
+    "hidden": false,
+    "score": 0.1081389583936476,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079518881
+  },
+  "13090": {
+    "hidden": false,
+    "score": 0.12613883788214242,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079714298
+  },
+  "13185": {
+    "hidden": false,
+    "score": 0.05763938428721145,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079473089
+  },
+  "13310": {
+    "hidden": false,
+    "score": 0.059216603612169204,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079478816
+  },
+  "13412": {
+    "hidden": false,
+    "score": 0.08676151376482528,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079452058
+  },
+  "13415": {
+    "hidden": false,
+    "score": 0.20234376640431004,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079443869
+  },
+  "13501": {
+    "hidden": true,
+    "score": 0.7217738866450278,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079731442
+  },
+  "13510": {
+    "hidden": false,
+    "score": 0.04489167130037034,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079729606
+  },
+  "13523": {
+    "hidden": false,
+    "score": 0.07693098722147233,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079727848
+  },
+  "13536": {
+    "hidden": false,
+    "score": 0.10418348692840662,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079722481
+  },
+  "13540": {
+    "hidden": false,
+    "score": 0.33116001412504653,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079382652
+  },
+  "13551": {
+    "hidden": false,
+    "score": 0.04914853911148878,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079720717
+  },
+  "13552": {
+    "hidden": false,
+    "score": 0.011326336484522671,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079719000
+  },
+  "13553": {
+    "hidden": false,
+    "score": 0.020558576093661057,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079381533
+  },
+  "13557": {
+    "hidden": false,
+    "score": 0.014983057152210105,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079716994
+  },
+  "13561": {
+    "hidden": false,
+    "score": 0.009721421083711856,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079381194
+  },
+  "13562": {
+    "hidden": false,
+    "score": 0.00494187537636183,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079380994
+  },
+  "13566": {
+    "hidden": false,
+    "score": 0.01261320228311672,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079715197
+  },
+  "13567": {
+    "hidden": false,
+    "score": 0.03557894217602136,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079499130
+  },
+  "13574": {
+    "hidden": false,
+    "score": 0.3374639868978091,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079448206
+  },
+  "13575": {
+    "hidden": true,
+    "score": 1,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079380491
+  },
+  "13576": {
+    "hidden": true,
+    "score": 0.7963884822136016,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079380490
+  },
+  "13583": {
+    "hidden": false,
+    "score": 0.04310045544664363,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079380288
+  },
+  "13597": {
+    "hidden": false,
+    "score": 0.006601648039156902,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079380036
+  },
+  "13598": {
+    "hidden": false,
+    "score": 0.3005356275250931,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079379842
+  },
+  "13599": {
+    "hidden": false,
+    "score": 0.02966792565124516,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079379607
+  },
+  "13607": {
+    "hidden": false,
+    "score": 0.18097220134282524,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079444449
+  },
+  "13615": {
+    "hidden": false,
+    "score": 0.19335959457739046,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079706199
+  },
+  "13616": {
+    "hidden": false,
+    "score": 0.5174565281847854,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079387409
+  },
+  "13630": {
+    "hidden": false,
+    "score": 0.039358419286731706,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079379251
+  },
+  "13632": {
+    "hidden": false,
+    "score": 0.026661163855301786,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079440981
+  },
+  "13639": {
+    "hidden": false,
+    "score": 0.09851833195623884,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079387124
+  },
+  "13640": {
+    "hidden": false,
+    "score": 0.032230968874825995,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079386886
+  },
+  "13643": {
+    "hidden": false,
+    "score": 0.05165330696831111,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079379064
+  },
+  "13644": {
+    "hidden": false,
+    "score": 0.10165364393933891,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079378855
+  },
+  "13645": {
+    "hidden": false,
+    "score": 0.0171970816970122,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079378585
+  },
+  "13649": {
+    "hidden": false,
+    "score": 0.12148976109501405,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079477429
+  },
+  "13650": {
+    "hidden": false,
+    "score": 0.28115065541675793,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079700733
+  },
+  "13652": {
+    "hidden": false,
+    "score": 0.03280545882213957,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079378388
+  },
+  "13653": {
+    "hidden": false,
+    "score": 0.04699304794380466,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079378169
+  },
+  "13655": {
+    "hidden": false,
+    "score": 0.1190662593848775,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079377831
+  },
+  "13656": {
+    "hidden": false,
+    "score": 0.22730427701956404,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079386518
+  },
+  "13657": {
+    "hidden": false,
+    "score": 0.07339890040627263,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079386292
+  },
+  "13659": {
+    "hidden": false,
+    "score": 0.054863510245887946,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079377560
+  },
+  "13661": {
+    "hidden": false,
+    "score": 0.06253160369556655,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079385901
+  },
+  "13662": {
+    "hidden": false,
+    "score": 0.024223640317601793,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079698945
+  },
+  "13666": {
+    "hidden": false,
+    "score": 0.004469790208924666,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079377401
+  },
+  "13668": {
+    "hidden": false,
+    "score": 0.007575770883224846,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079385693
+  },
+  "13671": {
+    "hidden": false,
+    "score": 0.07108489983093215,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079695789
+  },
+  "13680": {
+    "hidden": true,
+    "score": 0.7144847137387246,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079377224
+  },
+  "13681": {
+    "hidden": false,
+    "score": 0.15730893478316252,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079376860
+  },
+  "13690": {
+    "hidden": false,
+    "score": 0.02578241954675199,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079376272
+  },
+  "13691": {
+    "hidden": true,
+    "score": 1,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079375779
+  },
+  "13703": {
+    "hidden": false,
+    "score": 0.04137716931152906,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079385429
+  },
+  "13704": {
+    "hidden": false,
+    "score": 0.04764954911865043,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079385042
+  },
+  "13707": {
+    "hidden": false,
+    "score": 0.06613843697694757,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079496131
+  },
+  "13708": {
+    "hidden": false,
+    "score": 0.07140190130915708,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079495835
+  },
+  "13710": {
+    "hidden": false,
+    "score": 0.0032844743743917016,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079384681
+  },
+  "13711": {
+    "hidden": false,
+    "score": 0.0630328015886303,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079384429
+  },
+  "13713": {
+    "hidden": false,
+    "score": 0.28574672759242986,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079445085
+  },
+  "13716": {
+    "hidden": false,
+    "score": 0.370954774883838,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079375778
+  },
+  "13717": {
+    "hidden": false,
+    "score": 0.02681710107561237,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079375086
+  },
+  "13719": {
+    "hidden": false,
+    "score": 0.15880455506420257,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079374646
+  },
+  "13722": {
+    "hidden": false,
+    "score": 0.09516166275188284,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079374289
+  },
+  "13723": {
+    "hidden": false,
+    "score": 0.27109118699324447,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079495543
+  },
+  "13725": {
+    "hidden": false,
+    "score": 0.056731836147916846,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079494611
+  },
+  "13730": {
+    "hidden": false,
+    "score": 0.009679060150216197,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079492624
+  },
+  "13738": {
+    "hidden": false,
+    "score": 0.0874204216643933,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079491745
+  },
+  "13741": {
+    "hidden": false,
+    "score": 0.012403100545849432,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079373633
+  },
+  "13744": {
+    "hidden": false,
+    "score": 0.05542562893823103,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079490486
+  },
+  "13746": {
+    "hidden": false,
+    "score": 0.004793631262342246,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079373314
+  },
+  "13747": {
+    "hidden": false,
+    "score": 0.21137792303466588,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079384169
+  },
+  "13748": {
+    "hidden": false,
+    "score": 0.004240975224369745,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079482898
+  },
+  "13755": {
+    "hidden": false,
+    "score": 0.025649164213994772,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079489510
+  },
+  "13756": {
+    "hidden": false,
+    "score": 0.3059657772866134,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079383926
+  },
+  "13757": {
+    "hidden": false,
+    "score": 0.1407392431288212,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079383715
+  },
+  "13760": {
+    "hidden": false,
+    "score": 0.22773094710559008,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079487014
+  },
+  "13764": {
+    "hidden": false,
+    "score": 0.14733768293096644,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079449991
+  },
+  "13765": {
+    "hidden": false,
+    "score": 0.009505531255051691,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079372859
+  },
+  "13771": {
+    "hidden": false,
+    "score": 0.28373365960826175,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079383412
+  },
+  "13772": {
+    "hidden": false,
+    "score": 0.03541629796404567,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079372648
+  },
+  "13774": {
+    "hidden": false,
+    "score": 0.004095684584172594,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079488479
+  },
+  "13775": {
+    "hidden": false,
+    "score": 0.2538162211559699,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079481293
+  },
+  "13776": {
+    "hidden": false,
+    "score": 0.29032820844878837,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079487500
+  },
+  "13780": {
+    "hidden": false,
+    "score": 0.0998967733354335,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079517860
+  },
+  "13785": {
+    "hidden": true,
+    "score": 0.7273133272416235,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079449273
+  },
+  "13793": {
+    "hidden": false,
+    "score": 0.025719749261305023,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079445414
+  },
+  "13796": {
+    "hidden": false,
+    "score": 0.058104282259644646,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079383156
+  },
+  "13797": {
+    "hidden": false,
+    "score": 0.04008371706943614,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079382901
+  },
+  "13801": {
+    "hidden": false,
+    "score": 0.04555562627793547,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079485252
+  },
+  "13802": {
+    "hidden": false,
+    "score": 0.06118438776791021,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079485042
+  },
+  "13803": {
+    "hidden": false,
+    "score": 0.01898072453066495,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079484743
+  },
+  "13805": {
+    "hidden": false,
+    "score": 0.11891633388913385,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079446293
+  },
+  "13808": {
+    "hidden": false,
+    "score": 0.21723433373700407,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079452291
+  },
+  "13809": {
+    "hidden": false,
+    "score": 0.07772408327275884,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079486538
+  },
+  "13810": {
+    "hidden": false,
+    "score": 0.07860520405643448,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079372406
+  },
+  "13812": {
+    "hidden": false,
+    "score": 0.09649027263408375,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079517645
+  },
+  "13813": {
+    "hidden": false,
+    "score": 0.03175122646101651,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079485549
+  },
+  "13817": {
+    "hidden": false,
+    "score": 0.054535686899264406,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079372060
+  },
+  "13819": {
+    "hidden": false,
+    "score": 0.025902006682637667,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079483169
+  },
+  "13824": {
+    "hidden": false,
+    "score": 0.07956550875959502,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079484428
+  },
+  "13826": {
+    "hidden": false,
+    "score": 0.004588956262184975,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079446769
+  },
+  "13828": {
+    "hidden": false,
+    "score": 0.09301954726824627,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079448794
+  },
+  "13830": {
+    "hidden": false,
+    "score": 0.01563477125464798,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079371138
+  },
+  "13831": {
+    "hidden": false,
+    "score": 0.031268990105810995,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079483390
+  },
+  "13834": {
+    "hidden": false,
+    "score": 0.06354445068960432,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079482676
+  },
+  "13837": {
+    "hidden": false,
+    "score": 0.020146734795630446,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079370889
+  },
+  "13854": {
+    "hidden": true,
+    "score": 0.826597779733636,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079370514
+  },
+  "13855": {
+    "hidden": false,
+    "score": 0.18114553522290353,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079370074
+  },
+  "13856": {
+    "hidden": false,
+    "score": 0.0027252196722945517,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079482139
+  },
+  "13857": {
+    "hidden": false,
+    "score": 0.07995406566435632,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079481889
+  },
+  "13862": {
+    "hidden": false,
+    "score": 0.038525904759388045,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079482348
+  },
+  "13864": {
+    "hidden": false,
+    "score": 0.035510711035466644,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079481522
+  },
+  "13875": {
+    "hidden": false,
+    "score": 0.3774366968025515,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079371744
+  },
+  "13876": {
+    "hidden": false,
+    "score": 0.031810218964686485,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079371484
+  },
+  "13886": {
+    "hidden": false,
+    "score": 0.04315597743712555,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079447616
+  },
+  "13887": {
+    "hidden": false,
+    "score": 0.00810820917825942,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079481052
+  },
+  "13888": {
+    "hidden": false,
+    "score": 0.1335562043777372,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079447332
+  },
+  "13889": {
+    "hidden": false,
+    "score": 0.045744555173111996,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079446944
+  },
+  "13892": {
+    "hidden": false,
+    "score": 0.049174512242656045,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079369871
+  },
+  "13893": {
+    "hidden": false,
+    "score": 0.057075523234863604,
+    "version": "bl-only-nli-v3",
+    "expires": 1792079443449
+  }
+}

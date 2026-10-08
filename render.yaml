@@ -1,0 +1,20 @@
+services:
+  - type: web
+    name: metromovies-source
+    runtime: node
+    plan: free
+    rootDir: backend
+    buildCommand: npm ci
+    startCommand: npm start
+    healthCheckPath: /ready
+    envVars:
+      - key: NODE_VERSION
+        value: 22.22.0
+      - key: SOURCE_BACKEND_TOKEN
+        generateValue: true
+      - key: KISSKH_BASE_URL
+        value: https://kisskh.co
+      - key: SOURCE_DNS_SERVERS
+        value: 1.1.1.1,1.0.0.1
+      - key: SOURCE_MEDIA_HOSTS
+        value: '*.cdnvideo11.shop,*.streamingcdn5.site'

@@ -1,0 +1,8 @@
+{
+  "name": "metromovies-source-backend",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=22.19.0" },
+  "scripts": { "start": "node server.mjs", "test": "node --test server.test.mjs" },
+  "dependencies": { "undici": "8.11.2" }
+}

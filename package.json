@@ -1,0 +1,37 @@
+{
+  "name": "moviebaru",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint",
+    "test": "node --test tests/direct-source.test.cjs tests/admin-settings.test.cjs",
+    "test:ai": "node scripts/probe-browse-ai.mjs",
+    "test:backend": "node --test backend/server.test.mjs",
+    "check:live": "node --env-file-if-exists=.env.local scripts/check-live.mjs",
+    "check:backend": "node --env-file-if-exists=.env.local scripts/probe-backend.mjs"
+  },
+  "dependencies": {
+    "@consumet/extensions": "^1.8.8",
+    "@huggingface/transformers": "^4.3.1",
+    "@tailwindcss/postcss": "^4.3.3",
+    "hls.js": "^1.7.3",
+    "lucide-react": "^1.52.0",
+    "next": "16.4.0",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "undici": "^8.11.2"
+  },
+  "devDependencies": {
+    "@tailwindcss/turbopack": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.4.0",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}
